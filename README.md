@@ -27,7 +27,7 @@ A responsive, university‑developed healthcare information website built using 
 2. Place the project folder inside your server’s `htdocs` or `www` directory.  
 3. Start Apache.  
 4. Visit:  
-http://localhost/Healthcare Website/src/enthub
+http://localhost/Healthcare-Website/src/enthub
 
 ---
 
