@@ -21,6 +21,34 @@ A responsive, university‑developed healthcare information website built using 
 ---
 
 ## 📂 Project Structure
+Healthcare-Website/
+- │
+- ├── css/
+- │   └── Style.css
+- │
+- ├── js/
+- │   └── barchart.js
+- │
+- ├── php/
+- │   ├── enthub.php
+- │   ├── test.php
+- │   └── barchart.php
+- │
+- ├── images/
+- │   ├── group.jpg
+- │   ├── doctor.jpg
+- │   └── surgery.jpg
+- │
+- ├── bootstrap/
+- │   └── (contents of bootstrap-5.3.5-dist)
+- │
+- ├── index.php           (if you have a homepage)
+- │
+- ├── README.md
+- ├── .gitignore
+- └── LICENSE
+
+---
 
 ## 🚀 Running the Project
 1. Install a local PHP server (e.g., **XAMPP**, **WAMP**, or **MAMP**).  
